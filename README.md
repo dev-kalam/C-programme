@@ -46,4 +46,4 @@ Feel free to contribute to this project by opening an issue or submitting a pull
 This project is open-source and available under the MIT License.
 
 ## Contact
-For any questions or support, feel free to reach out via [your contact email].
+For any questions or support, feel free to reach out via [abulkalamripon09@gmail.com].
